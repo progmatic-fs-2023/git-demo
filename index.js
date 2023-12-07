@@ -1,4 +1,3 @@
-var s = "hello string"
-
+const s = 'hello string';
 
 console.log(s);
